@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suadarzimanli&label=Profile%20views&color=0e75b6&style=flat" alt="suadarzimanli" /> </p>
 
-- 🌱 I’m currently learning **C#, .Net,OOP, SQL Server, Entity Framework**
+- 🌱 I’m currently learning **C#, .Net, OOP, SQL Server, Entity Framework**
 
 - 👨‍💻 All of my projects are available at [https://suadarzimanli.github.io/portfolio_project/project.portfolio.html](https://suadarzimanli.github.io/portfolio_project/project.portfolio.html)
 
