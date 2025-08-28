@@ -8,7 +8,6 @@
 
 - 🌱 I’m interested in **C#, .Net, GIS, Data**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
